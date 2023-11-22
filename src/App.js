@@ -8,7 +8,7 @@ import { ColorModeSwitcher } from './ColorModeSwitcher';
 import Navbar from './components/Navbar';
 import PatientsList from './pages/PatientsList';
 import PatientDetails from './pages/PatientDetails';
-import { Web5 } from '@web5/api';
+// import { Web5 } from '@web5/api';
 
 function App() {
   return (

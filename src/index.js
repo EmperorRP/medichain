@@ -4,6 +4,10 @@ import * as ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import * as serviceWorker from './serviceWorker';
+// import { Web5 } from '@web5/api';
+// import { webcrypto } from 'node:crypto';
+
+// if (!globalThis.crypto) globalThis.crypto = webcrypto;
 
 const container = document.getElementById('root');
 const root = ReactDOM.createRoot(container);
